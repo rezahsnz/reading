@@ -2,4 +2,4 @@
 This efforts is my try to write and create more humane readng tools using computers.  
 
 ## List of writings  
-(On Making Books More Dynamic)[https://github.com/rezahsnz/reading/raw/main/Making%20Books%20More%20Dynamic.pdf] 
+- [On Making Books More Dynamic](https://github.com/rezahsnz/reading/raw/main/Making%20Books%20More%20Dynamic.pdf) `draft` 
